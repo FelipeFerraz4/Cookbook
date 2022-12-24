@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 50px;
+}
+h1 {
+    color: brown;
+}
+h2 {
+    color: chocolate;
+}
+li {
+    color: coral;
+}
+.container {
+    display: flex;
+    align-items: center;
+}
+img{
+    padding: 30px;
+    width: 400px;
+}
+p {
+    width: 300px;
+}
